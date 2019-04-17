@@ -1,4 +1,4 @@
 # Write your code here.
-def katz_deli(array)
+def line(array)
   
 end
